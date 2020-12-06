@@ -1,0 +1,35 @@
+.container {
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	margin-bottom: 100px;  
+	padding: 0px;
+	position: relative;
+	background-image: url("images/bg0.jpg");
+}
+
+#image0 {
+	position: absolute;
+	top: 470px;
+	left: 470px;
+}
+
+#bigimage0 {
+	padding: 15px;
+	border: 2px solid black;
+}
+
+.first-image-btns {
+	align-items: center;
+	padding: 0px;
+	margin: 5px;
+	position: absolute;
+}
+
+#plusOne, #plusTwo, #plusThree {
+	background-color: #4BB14E;
+	color: white;
+	padding: 0px;
+	width: 50px;
+	height: 50px;
+}
